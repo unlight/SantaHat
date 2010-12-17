@@ -2,14 +2,13 @@
 
 $PluginInfo['SantaHat'] = array(
 	'Name' => 'SantaHat',
-	'Description' => 'Santa Hat. Test',
+	'Description' => 'Puts a small santa hat over avatar. Tested on default theme.',
 	'RequiredApplications' => array('Vanilla' => '>= 2.0.13'),
-	'Version' => '1.0',
+	'Version' => '1.0.1',
 	'Date' => '20 Dec 2010',
 	'Author' => 'Grandfather Frost',
 	'AuthorUrl' => 'http://www.velikiy-ustyug-city.com'
 );
-
 
 
 class SantaHatPlugin extends Gdn_Plugin {
