@@ -1,7 +1,7 @@
 <?php if (!defined('APPLICATION')) exit();
 
 $PluginInfo['SantaHat'] = array(
-	'Name' => 'SantaHat',
+	'Name' => 'Santa Hat',
 	'Description' => 'Puts a small santa hat over avatar. Tested on default theme.',
 	'RequiredApplications' => array('Vanilla' => '>= 2.0.13'),
 	'Version' => '1.0.1',
