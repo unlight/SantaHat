@@ -14,7 +14,7 @@ $PluginInfo['SantaHat'] = array(
 
 class SantaHatPlugin extends Gdn_Plugin {
 	
-	static $Hats = array(
+	static public $Hats = array(
 		'hat1.png' => array('class' => 'SantaHat'),
 		'hat2.png' => array('class' => 'SantaHat2'),
 		'hat3.png' => array('class' => 'SantaHat'),
